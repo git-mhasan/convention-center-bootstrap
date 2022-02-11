@@ -1,0 +1,32 @@
+
+/* Using Google font: Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.m1-btn-color{
+    color: #3F87F5;
+    font-weight: 700;
+}
+
+.m2-btn-color{
+    color: #3F87F5;
+    font-weight: 700;
+    background-color: #FEF5FA;
+}
+
+.bullet-color{
+    background-color:#5243C2
+}
+
+/* Wedding Plus Card Custom Design */
+.wed-card-castom{
+    color: white;
+    background-color: #3F87F5;
+    border-radius: 25px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+    box-shadow:0 25px 20px 2px #3f88f548;
+}
